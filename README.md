@@ -3,6 +3,11 @@
 # word_counter
 The word_counter is one of the best counts of letters, characters, words from text files. it has a builtin character check what character  typed between a to z, it is shown right away on the screen too
 
+# how to use ?
+```
+python3 word_counter.py
+```
+
 # Why need to use a word_counter?
 - fast analysis of your text file
 - built-in character type check
