@@ -18,5 +18,5 @@ python3 word_counter.py
 Python 3.6+
 
 # Copyright & License
-© 2022 Suresh. P 
+© 2022 Suresh Pandiyan 
 Code released under MIT License
